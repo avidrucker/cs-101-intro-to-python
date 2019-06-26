@@ -1,7 +1,7 @@
-# cs-101-intro-to-python
+# CS101 - Intro to Python
 
-Welcome to the code repository for Computer Science 101 - Intro to Python.
+Welcome to the code repository for Computer Science 101 - Intro to Python, written and produced by Avi.
 
-The code in this "repo" is demonstrated in an accompanying YouTube course, currently located at [episode 1 link](https://youtu.be/x3PSs4NXQb8) and [episode 2 link](https://youtu.be/Y22hozliExc).
+The code in this "repo" is featured in an accompanying YouTube course, currently located at [playlist link](https://www.youtube.com/playlist?list=PLqJzsWJzM8JcRNjcIBn9Zq_byi72KDhYT).
 
-A final playlist link will be included once more episodes have been added.
+Please feel free to contribute to this repo in the form of issues and/or pull requests regarding the code content (bugs, inconsistencies, poor programming), video script, audio narration, visuals, or anything else you see fit to offer constructive feedback on.
